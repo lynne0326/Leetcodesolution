@@ -8,6 +8,8 @@
       <sourceFolder url="file://$MODULE_DIR$/JavaSolution/Palindrome" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/JavaSolution/TwoSum" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/JavaSolution/ReverseInteger" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaSolution/NimGame" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaSolution/MaxDepthTree" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
