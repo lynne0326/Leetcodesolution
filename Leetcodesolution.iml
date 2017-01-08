@@ -10,6 +10,59 @@
       <sourceFolder url="file://$MODULE_DIR$/JavaSolution/ReverseInteger" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/JavaSolution/NimGame" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/JavaSolution/MaxDepthTree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaSolution/AddDigit" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaSolution/ArrayIntersection" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaSolution/MoveZeros" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaSolution/DeleteNode" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaSolution/BinaryTreePath" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaSolution/Anagram" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaSolution/TitleToNumber" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaSolution/MajorityElement" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaSolution/ContainsDuplicateKey" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaSolution/IntersectionTwoArray" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaSolution/ReverseLinkedList" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaSolution/RemoveDuplicates" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaSolution/RemoveElements" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaSolution/LastWordLength" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaSolution/KClosestNumbers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaSolution/DicesSum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaSolution/CompleteBinaryTree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaSolution/BinaryTreeZigzagLevelOrderTraversal" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaSolution/BinaryTreeLevelTraversal" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaSolution/SearchRangeInBST" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaSolution/PartitionArray" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaSolution/SortColors" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaSolution/SortPosNegInterl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaSolution/SubarraySumClosest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaSolution/CountAndSay" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaSolution/HappyNumber" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaSolution/RemoveDuplicatesArray2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaSolution/LargestRectangle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaSolution/MaximumRectangle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaSolution/BuildingOutline" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaSolution/WindowSum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaSolution/MaxMinPath" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaSolution/DropEggs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaSolution/wordladder" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaSolution/NQueen" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaSolution/KthLargestNArray" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaSolution/LongestPalindromeString" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaSolution/FindConnectedComponent" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaSolution/PerfectSquare" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaSolution/SurroundedRegions" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaSolution/ZigZagConversion" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaSolution/LongestSubstringWithoutRepeating" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaSolution/GenerateParentheses" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaSolution/GroupAnagram" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaSolution/DecodeWays" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaSolution/RestoreIPAdress" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaSolution/MissingNumber" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaSolution/TwoPointers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaSolution/NextPermutation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaSolution/JumpGame" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/JavaSolution/RemoveElement" />
+      <excludeFolder url="file://$MODULE_DIR$/JavaSolution/ValidParathese" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

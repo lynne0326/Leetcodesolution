@@ -1,0 +1,5 @@
+<root>
+  <item name='java.util.Arrays int[] copyOf(int[], int)'>
+    <annotation name='java.lang.annotation.Deprecated'/>
+  </item>
+</root>
