@@ -29,6 +29,32 @@ public class RemoveDuplicates2 {
         return size;
     }
 
+    //对k适用
+    public int removeDuplicates2(int[] nums) {
+        if (nums == null || nums.length == 0) {
+            return 0;
+        }
+        if (nums.length < 2) {
+            return nums.length;
+        }
+        int index = 1;
+        int count = 1;
+        int i = 1;
+        while(i < nums.length) {
+            if (nums[i] != nums[i-1]) {
+                nums[index++] = nums[i];
+                count = 1;
+            } else {
+                if (count < 2) {
+                    nums[index++] = nums[i];
+                    count++;
+                }
+            }
+            i++;
+        }
+        return index;
+    }
+
     public static void main(String [] args) {
         int [] nums = {-14,-14,-14,-14,-14,-14,-14,-13,-13,-13,-13,-12,-11,-11,-11,-9,-9,-9,-7,-7,-7,-6,-6,-5,-5,-5,-4,-4,-4,-3,-3,-3,-2,-2,-2,-1,-1,0,0,0,0,1,1,1,2,2,2,2,3,3,3,3,3,4,4,4,5,5,6,6,6,7,7,7,7,8,8,8,8,9,9,10,10,11,11,11,11,11,12,12,12,12,13,13,13,13,14,14,15,16,17,18,18,18,20,20,21,21,21,21,21,22,22,22,22,23,24,24,25};
         removeDuplicates(nums);

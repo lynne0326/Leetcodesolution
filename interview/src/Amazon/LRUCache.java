@@ -1,9 +1,6 @@
 package Amazon;
 
-import java.util.HashMap;
-import java.util.LinkedHashMap;
-import java.util.LinkedList;
-import java.util.Map;
+import java.util.*;
 
 /**
  * Created by lingyanjiang on 16/12/15.
